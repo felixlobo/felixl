@@ -1,0 +1,133 @@
+Micheal Lowery 
+SEP8038FB95E998 / SEP C4B9CDB54B12
+Primary - 5876
+IPCC - 6153
+
+ changeme#1
+ l0g0s1nc
+ @f3M1coll@b99112
+Welcome@12345 /l
+ l0g0s1nc
+
+felix.lobo@matcotools.com / FL@matco22
+-------------
+Cisco Matco Fineese
+felix.lobo / w!ndyIron29
+
+SEPC4B9CDB58818
+-----------------------------shane tamara---------------
+Tamara Shane - 	tls0214 - 
+SEP646EE08CFB26 - 
+SEP00059A3C7A00 - As per CIPC Screenshot ip address - 10.65.240.76
+00C1B1E4012C
+--------------------------
+mph0729 - Michael Horrocks - 5830 
+5830 primanry extPhoneMask 4409405830 SEP8CC6811DE83F
+6280 IPCC extPhoneMask - 18004337098 - SEP8CC6811DE83F
+---------------------------------------
+
+vpn.matcotools.com/duo
+
+https://mtcstwuccxpub.matcotools.com:8445/desktop/container.
+
+G80) RETRIEVED DATA FROM TRUNK INTEGRATED RECORD KEEPING SYSTEM FOR DHEC177755200ATI :
+BILLING NUMBER = 3990110000
+NETWORK PLAN TYPE = APN
+SUBSCRIBED SERVICES = MEG8,SDN,LOCO,LOCI
+D CHANNEL CLCID = 8001/ZZ35ADACDCG0 /AKRNOH2505T/ZZ/STOWOHACN04
+MATED D CHANNEL CLCID =
+D CHANNEL CIRCUIT ID = KZET979798224ATIc
+MATED D CHANNEL CIRCUIT ID =
+
+
++1 734-717-8677
+
+https://hexitsm.service-now.com/nav_to.do?uri=sys_user.do?sys_id=d9da5de51bd10510c1c2dc6fbd4bcbed%26sysparm_view=ess
+
+utils service restart Cisco Tomcat
+
+This is to certify that Felix Lobo (Employee ID: 1000066920 Current Designation: Deputy
+Technical Specialist) is working with us since 25-11-2011
+
+This proof of employment is being issued on employee request.
+
+
+MS-101 Microsoft 365 Mobility and Security Course with Sims
+
+SR 694150984 ( Cannot take CUCM Backup as it is showing error) - 92095651 - ECMU
+
+SCTASK0357000 , SCTASK0357231
+Lowery, Michael 
+
+Molly Boulware - 5945
+Agent - 6133
+------------------------
+jmw0401	5516	Jon	Wilson	Customer Service
+
+[5:36 PM] Wilson, Jon
+jmw0401 shaffer_40
+
+Michael McKee - 5596
+IPC - Michael Lowery Remote Teleworker - 5876
+
+05530941 
+---------------
+pbasile@amazon.com
+037c-1ae589aad4-90
+527736427 / 153070125
+Dashboard - https://dashboard.eventengine.run/dashboard
+ConnectAgent / +44 191 750 5007
+https://felix-lobo-aws-connect-bootcamp.my.connect.aws/ccp-v2/softphone
+
+amazon-connect-b9dcda65814c/connect/Felix-Lobo-AWS-Connect-bootcamp - Your Connect data will be stored in this S3 bucket:
+/aws/connect/Felix-Lobo-AWS-Connect-bootcamp - Your flow logs will be stored here in CloudWatch:
+Identity management
+Edit
+Storing users within Amazon Connect
+https://Felix-Lobo-AWS-Connect-bootcamp.my.connect.aws
+Add administrator
+Edit
+First name
+Felix
+Last name
+Lobo
+Username
+felix
+Password
+*********
+Email
+felixl@hexaware.com
+Telephony Options
+Edit
+Allow incoming calls
+Your contact center can handle incoming calls.
+Allow outgoing calls
+Your contact center can make outbound calls.
+You can set which users can place outbound calls in user permissions.
+
+Data storage
+Edit
+Call recordings
+Call recordings will be stored in this S3 bucket:
+amazon-connect-b9dcda65814c/connect/Felix-Lobo-AWS-Connect-bootcamp/CallRecordings
+Encrypted using this key
+arn:aws:kms:us-east-1:966927680225:key/2054942d-32c5-46f7-ba65-84e0639212f0
+Chat transcripts
+Chat transcripts will be stored in this S3 bucket:
+amazon-connect-b9dcda65814c/connect/Felix-Lobo-AWS-Connect-bootcamp/ChatTranscripts
+Encrypted using this key
+arn:aws:kms:us-east-1:966927680225:key/2054942d-32c5-46f7-ba65-84e0639212f0
+Exported reports
+Exported reports will be stored in this S3 bucket:
+amazon-connect-b9dcda65814c/connect/Felix-Lobo-AWS-Connect-bootcamp/Reports
+Encrypted using this key
+arn:aws:kms:us-east-1:966927680225:key/2054942d-32c5-46f7-ba65-84e0639212f0
+Attachments
+Attachments will be stored in this S3 bucket:
+Not enabled
+Encrypted using this key
+Flow logs
+Your flow logs will be stored here in CloudWatch:
+/aws/connect/Felix-Lobo-AWS-Connect-bootcamp
+Customer Profiles
+Enabled

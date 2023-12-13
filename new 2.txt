@@ -1,0 +1,76 @@
+Step 1	Log in to Bria Portal
+Step 2	New Account.
+Step 3	Username as first name. last name
+Step 4	Email address.
+Step 5	Choose Profile (Country).
+Step 6	Give Extension Number and display name (ext #).
+Step 7	Password - Secret Code.
+Step 8	Submit.
+Step 9	Sign in with Credentials
+Step 10	The settings will be pushed over automatically from the server, once the user enters the credentials
+	Note:- 
+For Bria Connectivity Issues - Check Network Speed and VPN Connection
+
+BRIA - user called in requesting help as she and Emily McPherson are unable to receive inbound calls
+they are just able to make outbound calls - 9371
+
+User getting a lot of missed calls
+remote in users computer
+clear temp files
+clear cookies and cache
+restart app still missing calls
+
++12348884318
+
+1. 
+
+for new Azure-pass - 305-104
+felix-305-104@outlook.com / !Plus!is2
+
+239378260290722
+
+INC0677816
+Good morning team,
+
+I am not able to monitor calls through Amazon services, every time I tried to monitor a call I keep getting this message ''Failed to monitor agent.''. I already tried logging in and out of salesforce and amazon, 
+restarted my computer and switched servers (from Microsoft to Chrome) and I still have the same issue. Could you please assist? Thanks!
+
+INC0678665
+INC0678596
+
+
+Switch MAC address where the phone port is connected , or exact switch IP address and interface number .
+
+Phone mac address and phone should be always on 
+
+101758825734
+
+SCTASK0356286
+SCTASK0356271
+
+-----------------Dave and Yara
+INC0682269
+INC0682267
+Continuant - CS0217192
+----------------Daryl
+9234,0
+9264,0
+9268,0
+9216,0
+9235,0
+
+1022 and 1052
+
+Network Voice
+	SIP / E1 PRI Trunks down should be P2
+	Voice Servers down should be P2
+	On premise or Cloud Contact centre services not working should be P2
+-----------
+student / P@ssw0rd@0987 - 20/10/22
+
+aaduser2 /Yazo0649
+
+Test-AzDnsAvailability -DomainNameLabel orionlocal -Location 'eastus'
+orionlocal13	 	
+
+syncadmin \ Zavo7295 / !Plus!is2

@@ -1,0 +1,381 @@
+SRST-HQ#
+SRST-HQ#sh run
+Building configuration...
+
+
+Current configuration : 9223 bytes
+!
+! Last configuration change at 17:30:37 WAT Thu Feb 3 2022 by Superadmin
+! NVRAM config last updated at 17:37:40 WAT Thu Feb 3 2022 by Superadmin
+!
+version 15.4
+service timestamps debug datetime msec
+service timestamps log datetime msec
+service password-encryption
+!
+hostname SRST-HQ
+!
+boot-start-marker
+boot-end-marker
+!
+!
+card type e1 0 0
+card type e1 0 1
+no logging buffered
+no logging console
+enable password 7 011D045008031703204B411A
+!
+aaa new-model
+!
+!
+aaa authentication login AAA group tacacs+ local
+aaa authorization exec AAA group tacacs+ local
+aaa authorization commands 15 AAA group tacacs+ local
+aaa accounting commands 15 AAA start-stop group tacacs+
+!
+!
+!
+!
+!
+aaa session-id common
+clock timezone WAT 1 0
+network-clock-participate wic 0
+network-clock-participate wic 1
+network-clock-select 1 E1 0/0/0
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+ip dhcp excluded-address 10.10.10.1
+!
+!
+!
+no ip domain lookup
+ip domain name nig.mmo.heiway.net
+ip host patiencehenr-pc 145.47.188.29
+ip name-server 145.47.188.73
+ip cef
+no ipv6 cef
+!
+multilink bundle-name authenticated
+!
+!
+!
+!
+!
+isdn switch-type primary-4ess
+!
+cts logging verbose
+!
+crypto pki trustpoint TP-self-signed-3889551682
+enrollment selfsigned
+subject-name cn=IOS-Self-Signed-Certificate-3889551682
+revocation-check none
+rsakeypair TP-self-signed-3889551682
+!
+!
+crypto pki certificate chain TP-self-signed-3889551682
+certificate self-signed 01
+3082022B 30820194 A0030201 02020101 300D0609 2A864886 F70D0101 05050030
+31312F30 2D060355 04031326 494F532D 53656C66 2D536967 6E65642D 43657274
+69666963 6174652D 33383839 35353136 3832301E 170D3135 31303033 30313139
+30385A17 0D323030 31303130 30303030 305A3031 312F302D 06035504 03132649
+4F532D53 656C662D 5369676E 65642D43 65727469 66696361 74652D33 38383935
+35313638 3230819F 300D0609 2A864886 F70D0101 01050003 818D0030 81890281
+8100CF92 2545E8A0 C6CFC5F2 11CEE00A D8FD76CF B37A1A89 A5E996A9 529D2C50
+EC51C451 BBABFF02 CA8F74A5 CB90CFA1 5C2B9D3E 1BD1E47F F35635AF 06DFEB2F
+E24267DE DDA16D15 9CDA2B12 B33DDD2D FC5FD32B 3FA1833B 44E3C181 C331AA8B
+3E1A0E5B 1F15CCE9 1C6E2FCE 79157B38 08E4B9B3 901E284E A2E644E5 D7481138
+E19F0203 010001A3 53305130 0F060355 1D130101 FF040530 030101FF 301F0603
+551D2304 18301680 14457EA7 D4631035 29AAF1FD 8C1AE2EA 82FA9B51 92301D06
+03551D0E 04160414 457EA7D4 63103529 AAF1FD8C 1AE2EA82 FA9B5192 300D0609
+2A864886 F70D0101 05050003 8181002F 57641478 197A2A1A 130C3D81 CD711575
+23E14F3A 56AA28CA 2DA3A5B3 EAA998C3 B9589E2B 13865640 2E4A5478 5323A2CF
+A06C4E02 144570BC 49469EF8 255D1999 01BFA7E9 F4A901EB A86B4B70 C523F0F2
+00595298 895A1319 123BB071 92BA5EBA C911893C 05B405FB 4286788F F11BE366
+086B33F0 321656A3 3F873C4D DD092C
+quit
+voice-card 0
+dspfarm
+dsp services dspfarm
+!
+!
+voice rtp send-recv
+!
+voice service voip
+allow-connections h323 to h323
+allow-connections h323 to sip
+allow-connections sip to h323
+allow-connections sip to sip
+supplementary-service media-renegotiate
+redirect ip2ip
+fax protocol t38 version 0 ls-redundancy 0 hs-redundancy 0 fallback none
+h323
+sip
+!
+voice class codec 1
+codec preference 1 g711ulaw
+codec preference 2 g711alaw
+codec preference 3 g729r8
+!
+!
+!
+!
+!
+!
+!
+!
+license udi pid C3900-SPE150/K9 sn FOC1927CESV
+hw-module pvdm 0/0
+!
+hw-module pvdm 0/1
+!
+!
+!
+redundancy
+!
+!
+controller E1 0/0/0
+pri-group timeslots 1-31 service mgcp
+description 21century E1
+!
+controller E1 0/1/0
+!
+controller E1 0/1/1
+!
+ip ssh version 2
+ip ssh server algorithm mac hmac-sha1
+ip ssh server algorithm encryption aes256-ctr
+!
+class-map match-any AutoQoS-VoIP-Remark
+match ip dscp ef
+match ip dscp cs3
+match ip dscp af31
+match ip dscp default
+class-map match-any AutoQoS-VoIP-RTP-Trust
+match ip dscp ef
+class-map match-any AutoQoS-VoIP-Control-Trust
+match ip dscp cs3
+match ip dscp af31
+!
+policy-map AutoQoS-Policy-Trust
+class AutoQoS-VoIP-RTP-Trust
+priority percent 70
+class AutoQoS-VoIP-Control-Trust
+bandwidth percent 5
+class class-default
+fair-queue
+!
+!
+!
+!
+!
+interface Embedded-Service-Engine0/0
+no ip address
+shutdown
+!
+interface GigabitEthernet0/0
+description voice int
+ip address 145.47.188.43 255.255.255.0
+duplex auto
+speed auto
+ip rsvp bandwidth
+!
+interface GigabitEthernet0/0.1
+encapsulation dot1Q 100
+ip address 10.196.7.5 255.255.255.0
+ip rsvp bandwidth
+!
+interface GigabitEthernet0/0.5
+encapsulation dot1Q 50
+ip address 10.196.8.5 255.255.255.0
+ip rsvp bandwidth
+!
+interface GigabitEthernet0/0.6
+encapsulation dot1Q 60
+ip address 10.196.3.5 255.255.255.0
+!
+interface GigabitEthernet0/1
+no ip address
+shutdown
+duplex auto
+speed auto
+!
+interface GigabitEthernet0/2
+no ip address
+shutdown
+duplex auto
+speed auto
+!
+interface Serial0/0/0:15
+no ip address
+encapsulation hdlc
+isdn switch-type primary-net5
+isdn overlap-receiving
+isdn incoming-voice voice
+isdn bind-l3 ccm-manager
+isdn bchan-number-order ascending
+isdn PROGRESS-instead-of-ALERTING
+no cdp enable
+!
+ip default-gateway 192.168.8.19
+ip forward-protocol nd
+!
+no ip http server
+ip http access-class 23
+ip http authentication local
+no ip http secure-server
+ip http timeout-policy idle 60 life 86400 requests 10000
+!
+ip route 0.0.0.0 0.0.0.0 145.47.188.19
+ip route 0.0.0.0 0.0.0.0 145.47.188.4
+ip route 10.196.8.0 255.255.255.0 192.168.8.100
+ip route 145.47.185.0 255.255.255.0 145.47.188.19
+ip route 192.168.5.0 255.255.255.0 145.47.188.19
+!
+logging trap warnings
+logging host 145.47.188.37
+!
+nls resp-timeout 1
+cpd cr-id 1
+!
+snmp-server community nbplc RO
+snmp-server enable traps isdn layer2
+snmp-server host 145.47.188.37 nbplc
+tacacs-server host 145.47.188.48 key 7 135406131114173D79
+tacacs-server host 145.47.183.92 key 7 014217054113151873
+!
+!
+!
+control-plane
+!
+!
+voice-port 0/0/0:15
+cptone C1
+!
+voice-port 0/2/0
+cptone C1
+connection plar opx 850
+!
+voice-port 0/2/1
+cptone C1
+connection plar opx 850
+!
+voice-port 0/2/2
+cptone C1
+connection plar opx 850
+!
+voice-port 0/2/3
+cptone C1
+connection plar opx 850
+!
+!
+!
+!
+!
+mgcp
+mgcp call-agent 10.196.8.7 2427 service-type mgcp version 0.1
+mgcp dtmf-relay voip codec all mode out-of-band
+mgcp rtp unreachable timeout 1000 action notify
+mgcp modem passthrough voip mode nse
+mgcp package-capability rtp-package
+mgcp package-capability sst-package
+mgcp package-capability pre-package
+no mgcp package-capability res-package
+no mgcp timer receive-rtcp
+mgcp sdp simple
+mgcp fax t38 inhibit
+mgcp bind control source-interface GigabitEthernet0/0.5
+mgcp bind media source-interface GigabitEthernet0/0.5
+mgcp behavior rsip-range tgcp-only
+mgcp behavior comedia-role none
+mgcp behavior comedia-check-media-src disable
+mgcp behavior comedia-sdp-force disable
+!
+mgcp profile default
+!
+sccp local GigabitEthernet0/0.5
+sccp ccm 10.196.8.9 identifier 3 priority 3 version 6.0
+sccp ccm 10.196.3.7 identifier 2 priority 2 version 6.0
+sccp ccm 10.196.8.7 identifier 1 priority 1 version 6.0
+sccp
+!
+sccp ccm group 1
+bind interface GigabitEthernet0/0.5
+associate ccm 1 priority 1
+associate ccm 2 priority 2
+associate ccm 3 priority 3
+associate profile 3 register MTPLAG
+associate profile 2 register XCODELAG
+associate profile 1 register CONFLAG
+switchback method graceful
+!
+ccm-manager music-on-hold
+!
+ccm-manager mgcp
+no ccm-manager fax protocol cisco
+ccm-manager config server 10.196.8.6 10.196.8.7
+ccm-manager config
+ccm-manager download-tones
+!
+dspfarm profile 2 transcode
+codec g729abr8
+codec g729ar8
+codec g711alaw
+codec g711ulaw
+codec g729r8
+codec pass-through
+rsvp
+maximum sessions 23
+associate application SCCP
+!
+dspfarm profile 1 conference
+codec g729br8
+codec g729r8
+codec g729abr8
+codec g729ar8
+codec g711alaw
+codec g711ulaw
+maximum sessions 4
+associate application SCCP
+!
+dspfarm profile 3 mtp
+codec g711ulaw
+codec pass-through
+rsvp
+maximum sessions software 100
+associate application SCCP
+shutdown
+!
+dial-peer voice 9990020 pots
+service mgcpapp
+port 0/2/0
+!
+dial-peer voice 9990021 pots
+service mgcpapp
+port 0/2/1
+!
+dial-peer voice 9990022 pots
+service mgcpapp
+port 0/2/2
+!
+dial-peer voice 9990023 pots
+service mgcpapp
+port 0/2/3
+!
+dial-peer voice 99900015 pots
+service mcpapp
+!
+!
+!
+!
+gatekeeper
+shutdown
+!

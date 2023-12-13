@@ -1,0 +1,40 @@
+felix-305-104@outlook.com / 
+
+felixslobo-az-800@outlook.com /
+
+felix-AZ500-BL@outlook.com
+felix-az700-bl@outlook.com
+
+New-AzureADGroup -DisplayName 'Junior Admins26255129' -MailEnabled $false -SecurityEnabled $true -MailNickName JuniorAdmins
+
+Examine the pros and cons of Cloud-based SIEM
+
+Dai, Xuefeng
+
+Pickman, Guy
+Limitless Analytics with Azure Synapse
+
+Gilbarco09
+gilbarco.com
+
+
+INC0667436
+
+SCTASK0342776
+
+Request you to provide  Server admin access and SQL admin acces
+
+Pass@w.rd1234
+
+101758825734
+
+NW\FLobo
+Cloud Native Security Cookbook,Recipes for a Secure Cloud
+
+413334171110
+
+9561951418
+
+---------Cristina Martolea
+c0510228dc2cef025928d58164e94dd6
+c0510228dc2cef025928d58164e94dd6

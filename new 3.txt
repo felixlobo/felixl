@@ -1,0 +1,113 @@
+563F47E4875CD682E0260C9203595892
+563F47E4875CD682E0260C9203595892
+
+mirsad.jdaitawi@spectrum-coms.co.uk; Lewis Ives-Smith lewis.ivessmith@spectrum-coms.co.uk; Shoaib Hussain shoaib.hussain@spectrum-coms.co.uk
+
+I’m filling out some missing info on a Business Continuity Plan document that Corp IT put together.  
+For the External Inbound Communications during a Disaster, I need the phone numbers for each region.  Does not need to be a 800 number.
+For the Internal Communication Methods during a disaster, I need the phone numbers for each region.
+Departmental Business Continuity Plans, I need the location where plans are stored at.
+For Appendix A, I need two phone numbers for each CorpIT rep, for each region.
+For Appendix B. Supplier/Vendor Contracts and Contacts, I need the info for the table.
+
+There’s other info needed, but these five are the first ones that stand out.
+
+External Inbound Communications during a Disaster
+
+Lines routed to a message if phones go down: 
+● 800- (Main Line) 
+● 800- (Acct Relations) 
+● 800- (Billing Inquiries) 
+● 800- (NA Support) 
+● 800- (MX Support) 
+● 800- (UK Support) 
+● 800- (ANZ Support) 
+
+Note: The Fax Line (800-XXX-XXXX) will be routed to a Nextiva fax-to-email line if phone switch or Xmedius go down.
+
+
+Internal Communication Methods during a disaster 
+Employees may receive notification of an emergency via email, face-to-face, global voice message, or communications on the disaster Message Board. Voice messages are expected to be in place to announce building closures or late openings. 
+If phone lines are down, below are the alternative contact numbers to be used for Disaster Communications in addition to any electronic communication channel.
+
+Alternative 	US 	UK 	AU 	NZ 	MX 
+toll-free Voice Mail line 	 	 	 	 	 
+IT Support 	 	 	 	 	 
+Help Desk 	 	 	 	 	 
+
+internal lines will be automatically routed to a back-up line that provides recorded message capability. Employees will be directed toward the online Message Board during disasters for the latest communications.  
+General emergency message for IT Support, Help Desk internal lines: 
+A global phone message has been activated for TeletracNavman Any regional employees as a response to an emergency. Please log onto DR.TeletracNavman.COM for further instructions and updated information. 
+
+
+Departmental Business Continuity Plans
+
+Each TeletracNavman business unit will develop and maintain a business continuity plan for their respective areas of responsibility to ensure their processes are addressed. However, initially, the focus is on customer-facing groups. Plans should be reviewed with employees on a quarterly basis as well as incorporated into new hire orientation. All business continuity documentation will be stored at S:\SOME SHARED DRIVE/LOCATION. 
+
+Appendix A – Key Contact Information
+
+This appendix provides all the necessary Teletrac Navman business and technical contact information, by region, for people that will have a role and responsibility during Disaster Recovery and Restoration.  
+
+Appendix B. Supplier/Vendor Contracts and Contacts 
+
+Overview 
+In this section Teletrac maintains a list of its critical vendors and supplier's contracts and contacts to facilitate equipment replacement as part of its recovery and failback solutions. 
+
+Vendor 	Primary Name 	Primary phone 	Secondary phone 	Contract # 
+Cisco 	 	 	 	 
+Microsoft 	 	 	 	 
+Amazon AWS 	 	 	 	 
+Dell 	 	 	 	 
+Chronix 	 	 	 	 
+AT&T 	 	 	 	 
+UpWork 	 	 	 	 
+
+Greg Casewell has a copy and link to the full document.\
+
+
+
+
+
+--------------
+https://chrome.google.com/webstore/detail/livevq-by-cyara/famokdgomhnehgncofcncdmjinopphpk
+From Steve Quinn to Everyone 06:36 AM
+https://support.cyara.com/hc/en-us/articles/4834922518287-Cyara-LiveVQ-Agent-Browser-Extension-Configuration
+From Paul Zhu to Everyone 06:37 AM
+https://chrome.google.com/webstore/detail/livevq-by-cyara/famokdgomhnehgncofcncdmjinopphpk
+From Paul Zhu to Everyone 06:51 AM
+https://rest.navman.livevq.cyara.com/v1/cyara-livevq-bootstrap?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjM4MDkzNTAuMCwic3ViIjoiU3RldmUgUXVpbm4iLCJ1c2VybmFtZSI6IlN0ZXZlIFF1aW5uIiwibmFtZSI6IiAiLCJyZXF1ZXN0SWQiOiIxZmM4OTRiNi1kYjJiLTRiMmUtYTI1Ny0wNDc0ZDlkZTc1MWYifQ.4j4T-z3evq3rLXb5cOKU9Lt-FS0Rhv-xBSWirqZkOfE
+https://rest.navman.livevq.cyara.com/v1/cyara-livevq-bootstrap?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjM4MDk0MzIuMCwic3ViIjoiSmFtZXMgTWNFd2VuIiwidXNlcm5hbWUiOiJKYW1lcyBNY0V3ZW4iLCJuYW1lIjoiICIsInJlcXVlc3RJZCI6ImU2YjVlMDVjLTVlM2YtNGQ5Yy04ZDFmLTM1NDZjYzc1OWY0NiJ9.LCY49ssb28Z0-A5b9maR7AnpLF5EuOv6WZs10yw7O5s
+https://rest.navman.livevq.cyara.com/v1/cyara-livevq-bootstrap?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjM4MDk2NzMuMCwic3ViIjoiamFtZXMubWNld2VuQHRlbGV0cmFjbmF2bWFuLmNvbSIsInVzZXJuYW1lIjoiamFtZXMubWNld2VuQHRlbGV0cmFjbmF2bWFuLmNvbSIsIm5hbWUiOiIgIiwicmVxdWVzdElkIjoiZThjZTI3NGYtMjdlYS00MTQ5LWJlZjUtNzUyNjA3MzdmNmU0In0.RGYYE7EUVYoeYXC2QInwWzZyrovhau1OOfCk5RvKUNo
+From Matt Ledgerwood to Everyone 06:54 AM
+matt.ledgerwood@teletracnavman.com
+From Paul Zhu to Everyone 06:55 AM
+Ettincq24Dco2w
+----------------------------INC0682269
+No valid extension was found in Active Directory for Steven Charlot . Please verify that this associate’s voicemail password and Rolm PBX forwarding are disabled if needed, as he/she is no longer with the company.
+----------------------INC0682267
+Please remove Rolm PBX forwarding, and change the voicemail password to “0000” for extension 5594. This employee, Heather Terhart , is no longer with the company.
+
+d*********************************pppppp*****pppppp
++442038303168******
+Antim Chirila's
+
+Dimona call center telephone line is not referred to a kishorit company or  to the mobile phone of the representatives
+
+Users are able to Log on to Mitel/Ignite. The Internet Connectivity is up
+
+DHEC277464100ATI - Ticket no.- 2O1401037
+DHEC277464200ATI - Ticket no.- 2O1401051
+DHEC277464300ATI - Ticket no.- 2O1401080
+DHEC277464400ATI - Ticket no.- 2O1401103
+DHEC2775972  ATI - Asset - Lookup failed
+KZET315448324ATI - Ticket no.- 2O1401130
+KZET919640124ATI - Ticket no.- 2O1401136
+KZET965183424ATI - Ticket no.- 2O1401208
+KZET970162224ATI - Ticket no.- 2O1401223
+ 
+Need Call Detail Record as we are Suspecting Unusual dialing Behavior to South Africa
+Felix.Lobo@VNTITServices.com
+8433760145
+2522485400
+
+ 1‑800‑247‑2020

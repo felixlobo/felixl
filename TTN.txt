@@ -1,0 +1,493 @@
+Felix.Lobo@vntitservices.com
+Felix.Lobo@ttnit.com
+NW\FLobo / 0M6&fNzJM6ldc / December@2022
+Password: TNVNT529566!@! / fl@teletrac22 /8aa9cbd50165b05ce38049e856e87c5f
+
+RDP - TN-SC-RDS
+RP g/w server setting - remote.navmanwireless.com
+-------------------
+bria user creation
+	
+
+FreePBX
+
+Username: FLobo
+
+Password: TeleN@v2022
+=====================
+1300427123 -> 398893100 -> Misc Destination - Forward to NZ AWS Main Ext 1022 ->NZ, Misc Dest, Main AWS 6498705911
+1300111477 -> 298868500 -> IVR - 0-Main Menu, AU New (1 - Misc Dest, NZ sales, 2 - IVR -Tech Sup Menu, AU NEW, 3 - IVR, 3-Accts Menu New, 4 - Misc Dest, AU Sales Admin Relay to NZ
+
+------------
+Her Majesty Queen Elizabeth II’s State Funeral
+-------------------------------------------------
+
+
+Hi there.
+
+Wonder if we can redirect this 1001 extn to the AWS customer support number?
+-----
+So its an internal staff member using an this 1001 extn to transfer a customer to support
+---
+Sorry mate.
+
+Going to be a pain here.
+
+Can we do the below as well.
+
+1002 - verifications
+1006  - Customer
+1011 - Customer
+----------------------
+Hi Elizabeth,
+
+I've redirected 2-1-2 to the AWS main customer line:  +1 463-895-3719.
+
+I've redirected 800 Ryder56 to the AWS Ryder Customer Line:  +1 480-936-7449.
+
+Thanks,
+---------------------------------------------------------------------------
+608 -> +44 1618020735
+612 -> +44 1134712321
+--------------------------------
+2022-06-29 08:05:20 - Tapia, Walter (Additional comments)
+Created from external email to: Greg.Casewell@teletracnavman.com,Jeff.Kurbatzky@TeletracNavman.com,James.McEwen@TeletracNavman.com,pmerwood@circle-consulting.co.nz,mledgerwood@circle-consulting.co.nz,Prity.Nagar@TeletracNavman.com,Elizabeth.Castro@TeletracNavman.com,Alfonso.DelCastillo@TeletracNavman.com,Support@TeletracNavman.com,David.Shaw@TeletracNavman.com
+
+Hi IT,
+
+Please can you also re-route these hunt groups:
+
+608 --> +44 161 802 0735
+612 --> +44 113 471 2321
+
+Many thanks,
+
+Ben McCartney
+Global Service Desk & Incident Manager
+Ben.McCartney@TeletracNavman.com<mailto:Ben.McCartney@TeletracNavman.com>
++44 (0)7780 332 682, dir.
+
+Teletrac Navman | K1 Business Park Kents Hill | Milton Keynes | Buckinghamshire | MK7 6BZ
++44 (0345) 521 1188 | teletracnavman.co.uk<https://urldefense.com/v3/__http://www.teletracnavman.co.uk/__;!!IJTm5Pv7pnzb!LYO3SGGNI5JyjW5mvBqk_TGL-ifs6PH244G-Sx73poxrTTH7_SmYBPfwud934NKML2wyDyjbNhWnsYdI8ttTOvrSke9oa7qk$ >
+
+[https://urldefense.com/v3/__http://logos.teletracnavman.com/ttn.png__;!!IJTm5Pv7pnzb!LYO3SGGNI5JyjW5mvBqk_TGL-ifs6PH244G-Sx73poxrTTH7_SmYBPfwud934NKML2wyDyjbNhWnsYdI8ttTOvrSkQpHshnG$ ]
+[cid:image001.png@01D88BB6.409FC1B0]<https://urldefense.com/v3/__https://www.facebook.com/TeletracNavmanUK/__;!!IJTm5Pv7pnzb!LYO3SGGNI5JyjW5mvBqk_TGL-ifs6PH244G-Sx73poxrTTH7_SmYBPfwud934NKML2wyDyjbNhWnsYdI8ttTOvrSkcWy0jr_$ >[cid:image002.png@01D88BB6.409FC1B0]<https://urldefense.com/v3/__https://www.linkedin.com/company/teletrac-navman-uk/__;!!IJTm5Pv7pnzb!LYO3SGGNI5JyjW5mvBqk_TGL-ifs6PH244G-Sx73poxrTTH7_SmYBPfwud934NKML2wyDyjbNhWnsYdI8ttTOvrSke5DkfWv$ >[cid:image003.png@01D88BB6.409FC1B0]<https://urldefense.com/v3/__https://www.youtube.com/channel/UCu5QmcEB0a8WFVoShoHVUgg__;!!IJTm5Pv7pnzb!LYO3SGGNI5JyjW5mvBqk_TGL-ifs6PH244G-Sx73poxrTTH7_SmYBPfwud934NKML2wyDyjbNhWnsYdI8ttTOvrSkbFmOi9y$ >
+We respect your privacy. Please see our Privacy Notice<https://urldefense.com/v3/__https://www.teletracnavman.co.uk/privacy-notice__;!!IJTm5Pv7pnzb!LYO3SGGNI5JyjW5mvBqk_TGL-ifs6PH244G-Sx73poxrTTH7_SmYBPfwud934NKML2wyDyjbNhWnsYdI8ttTOvrSkVbuk6or$ > for more information.
+
+From: Ben McCartney
+Sent: 29 June 2022 11:39
+To: Greg Casewell <Greg.Casewell@teletracnavman.com>; Jeff Kurbatzky <Jeff.Kurbatzky@TeletracNavman.com>; James McEwen <James.McEwen@TeletracNavman.com>; pmerwood@circle-consulting.co.nz; Matt Ledgerwood <mledgerwood@circle-consulting.co.nz>; Prity Nagar <Prity.Nagar@TeletracNavman.com>; Elizabeth Castro <Elizabeth.Castro@TeletracNavman.com>; Alfonso Del Castillo <Alfonso.DelCastillo@TeletracNavman.com>
+Cc: David Shaw <David.Shaw@TeletracNavman.com>
+Subject: RE: UK/US migration to AWS connect paused
+Importance: High
+
+Hi @Greg<mailto:Greg.Casewell@teletracnavman.com>,
+
+Please can we also add +443308186408 --> +44 113 471 2321
+
+Many thanks,
+
+Ben McCartney
+Global Service Desk & Incident Manager
+Ben.McCartney@TeletracNavman.com<mailto:Ben.McCartney@TeletracNavman.com>
++44 (0)7780 332 682, dir.
+
+Teletrac Navman | K1 Business Park Kents Hill | Milton Keynes | Buckinghamshire | MK7 6BZ
++44 (0345) 521 1188 | teletracnavman.co.uk<https://urldefense.com/v3/__http://www.teletracnavman.co.uk/__;!!IJTm5Pv7pnzb!LYO3SGGNI5JyjW5mvBqk_TGL-ifs6PH244G-Sx73poxrTTH7_SmYBPfwud934NKML2wyDyjbNhWnsYdI8ttTOvrSke9oa7qk$ >
+
+[https://urldefense.com/v3/__http://logos.teletracnavman.com/ttn.png__;!!IJTm5Pv7pnzb!LYO3SGGNI5JyjW5mvBqk_TGL-ifs6PH244G-Sx73poxrTTH7_SmYBPfwud934NKML2wyDyjbNhWnsYdI8ttTOvrSkQpHshnG$ ]
+[cid:image001.png@01D88BB6.409FC1B0]<https://urldefense.com/v3/__https://www.facebook.com/TeletracNavmanUK/__;!!IJTm5Pv7pnzb!LYO3SGGNI5JyjW5mvBqk_TGL-ifs6PH244G-Sx73poxrTTH7_SmYBPfwud934NKML2wyDyjbNhWnsYdI8ttTOvrSkcWy0jr_$ >[cid:image002.png@01D88BB6.409FC1B0]<https://urldefense.com/v3/__https://www.linkedin.com/company/teletrac-navman-uk/__;!!IJTm5Pv7pnzb!LYO3SGGNI5JyjW5mvBqk_TGL-ifs6PH244G-Sx73poxrTTH7_SmYBPfwud934NKML2wyDyjbNhWnsYdI8ttTOvrSke5DkfWv$ >[cid:image003.png@01D88BB6.409FC1B0]<https://urldefense.com/v3/__https://www.youtube.com/channel/UCu5QmcEB0a8WFVoShoHVUgg__;!!IJTm5Pv7pnzb!LYO3SGGNI5JyjW5mvBqk_TGL-ifs6PH244G-Sx73poxrTTH7_SmYBPfwud934NKML2wyDyjbNhWnsYdI8ttTOvrSkbFmOi9y$ >
+We respect your privacy. Please see our Privacy Notice<https://urldefense.com/v3/__https://www.teletracnavman.co.uk/privacy-notice__;!!IJTm5Pv7pnzb!LYO3SGGNI5JyjW5mvBqk_TGL-ifs6PH244G-Sx73poxrTTH7_SmYBPfwud934NKML2wyDyjbNhWnsYdI8ttTOvrSkVbuk6or$ > for more information.
+
+From: Jeff Kurbatzky <Jeff.Kurbatzky@TeletracNavman.com<mailto:Jeff.Kurbatzky@TeletracNavman.com>>
+Sent: 24 June 2022 02:28
+To: James McEwen <James.McEwen@TeletracNavman.com<mailto:James.McEwen@TeletracNavman.com>>; pmerwood@circle-consulting.co.nz<mailto:pmerwood@circle-consulting.co.nz>; Matt Ledgerwood <mledgerwood@circle-consulting.co.nz<mailto:mledgerwood@circle-consulting.co.nz>>; Ben McCartney <Ben.McCartney@TeletracNavman.com<mailto:Ben.McCartney@TeletracNavman.com>>; Prity Nagar <Prity.Nagar@TeletracNavman.com<mailto:Prity.Nagar@TeletracNavman.com>>; Elizabeth Castro <Elizabeth.Castro@TeletracNavman.com<mailto:Elizabeth.Castro@TeletracNavman.com>>; Alfonso Del Castillo <Alfonso.DelCastillo@TeletracNavman.com<mailto:Alfonso.DelCastillo@TeletracNavman.com>>
+Cc: Greg Casewell <Greg.Casewell@teletracnavman.com<mailto:Greg.Casewell@teletracnavman.com>>; Jeff Kurbatzky <Jeff.Kurbatzky@TeletracNavman.com<mailto:Jeff.Kurbatzky@TeletracNavman.com>>
+Subject: RE: UK/US migration to AWS connect paused
+
+James,
+
+There have been several tickets and emails directing numbers, I’m hoping nothing got lost in translation.
+
+This is what I have at the moment:
+---------------
+US
+
+At cutover time, The following USA numbers need to be redirected to the number we have provisioned for USA customers: +1 463-895-3719
+
+* NE & FMS Support - (800) 487-4357 / (888) 799-4925
+* Enterprise - (866) 637-9258
+* TN360 - (800) 800-7100
+* Global Fleet Management, the webpage that FMS customers use - (847) 792-2655
+At cutover time, The following USA numbers need to be redirected to the number we have provisioned for USA verifications: +1 463-895-3691
+
+Ryder customer calls: Existing freephone 800 936-5173 → +1 480-936-7449
+Ryder verification calls: New freephone → +1 480-936-7448
+
+(I’ve provisioned 1 480-936-7448.for Ryder Verifications)
+----------------
+UK
+
+Customers
+General number(s): +44 (0)345 521 1144, Opt 1, Opt 1 (IVR) --> +44 161 802 0735
++44 (0)345 521 1188, Opt 1, Opt 1 (IVR) --> +44 161 802 0735
+Enterprise number: +44 (0)345 521 6303 (Direct) --> +44 161 802 0735
+
+Verifications
+General number: +44 (0)1782 557 980 (IVR)
+Opt 1, Qubes/Qtanium - Installs, Service Calls & De/Re’s -->+44 113 471 2321
+Opt 2, TM Service Calls & De/Re’s -->+44 113 471 2321
+Opt 3, TM New Installs -->+44 113 471 2321
+
+
+Thanks,
+
+Jeff
+
+Jeff Kurbatzky
+IT Support Engineer
+Jeff.Kurbatzky@TeletracNavman.com<mailto:Jeff.Kurbatzky@TeletracNavman.com>
++1 (714) 890-7692, dir.
+
+Teletrac Navman | 310 Commerce, Suite 100 | Irvine | CA 92602
+(800) 835-3872 | teletracnavman.com<https://urldefense.com/v3/__http://www.teletracnavman.com/__;!!IJTm5Pv7pnzb!LYO3SGGNI5JyjW5mvBqk_TGL-ifs6PH244G-Sx73poxrTTH7_SmYBPfwud934NKML2wyDyjbNhWnsYdI8ttTOvrSkWWlwNu7$ >
+
+
+[https://urldefense.com/v3/__http://logos.teletracnavman.com/ttn.png__;!!IJTm5Pv7pnzb!LYO3SGGNI5JyjW5mvBqk_TGL-ifs6PH244G-Sx73poxrTTH7_SmYBPfwud934NKML2wyDyjbNhWnsYdI8ttTOvrSkQpHshnG$ ]
+
+From: James McEwen <James.McEwen@TeletracNavman.com<mailto:James.McEwen@TeletracNavman.com>>
+Sent: Thursday, June 23, 2022 2:21 PM
+To: Jeff Kurbatzky <Jeff.Kurbatzky@TeletracNavman.com<mailto:Jeff.Kurbatzky@TeletracNavman.com>>; pmerwood@circle-consulting.co.nz<mailto:pmerwood@circle-consulting.co.nz>; Matt Ledgerwood <mledgerwood@circle-consulting.co.nz<mailto:mledgerwood@circle-consulting.co.nz>>; Ben McCartney <Ben.McCartney@TeletracNavman.com<mailto:Ben.McCartney@TeletracNavman.com>>; Prity Nagar <Prity.Nagar@TeletracNavman.com<mailto:Prity.Nagar@TeletracNavman.com>>; Elizabeth Castro <Elizabeth.Castro@TeletracNavman.com<mailto:Elizabeth.Castro@TeletracNavman.com>>; Alfonso Del Castillo <Alfonso.DelCastillo@TeletracNavman.com<mailto:Alfonso.DelCastillo@TeletracNavman.com>>
+Subject: UK/US migration to AWS connect paused
+
+Hi Team,
+
+Despite a big final push I am not 100% convinced that we are ready to push go here.
+
+So we are going to delay the rollout a day or so to ensure we have all our duck are in a row.
+
+Regards
+
+James
+-------
+INC0672623 - [EXTERNAL] RE: [#INC0118298] UK - Extensions
+
+Created from external email to: Support@TeletracNavman.com,James.McEwen@TeletracNavman.com
+
+Hi IT,
+
+Please can I also have a DDI for hunt group 606?
+
+Many thanks,
+
+Ben McCartney
+Global Service Desk & Incident Manager
+Ben.McCartney@TeletracNavman.com<mailto:Ben.McCartney@TeletracNavman.com>
++44 (0)7780 332 682, dir.
+
+Teletrac Navman | K1 Business Park Kents Hill | Milton Keynes | Buckinghamshire | MK7 6BZ
++44 (0345) 521 1188 | teletracnavman.co.uk<https://urldefense.com/v3/__http://www.teletracnavman.co.uk/__;!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKas4jNkO$ >
+
+[https://urldefense.com/v3/__http://logos.teletracnavman.com/ttn.png__;!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKf2NOlrj$ ]
+[cid:image001.png@01D88C93.3E7E37D0]<https://urldefense.com/v3/__https://www.facebook.com/TeletracNavmanUK/__;!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKVKgeQQY$ >[cid:image002.png@01D88C93.3E7E37D0]<https://urldefense.com/v3/__https://www.linkedin.com/company/teletrac-navman-uk/__;!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKe0ZnsG8$ >[cid:image003.png@01D88C93.3E7E37D0]<https://urldefense.com/v3/__https://www.youtube.com/channel/UCu5QmcEB0a8WFVoShoHVUgg__;!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKR2XQB8b$ >
+We respect your privacy. Please see our Privacy Notice<https://urldefense.com/v3/__https://www.teletracnavman.co.uk/privacy-notice__;!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKY3rnTDT$ > for more information.
+
+From: Greg Casewell <Support@TeletracNavman.com>
+Sent: 10 June 2022 09:05
+To: Ben McCartney <Ben.McCartney@TeletracNavman.com>
+Cc: James McEwen <James.McEwen@TeletracNavman.com>
+Subject: Re: [#INC-118298] UK - Extensions
+
+
+CAUTION: This email originated from outside the company.
+Hi Ben,
+
+Ticket: https://urldefense.com/v3/__https://support.teletracnavman.com/helpdesk/tickets/118298__;!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKYDGqUJs$ <https://urldefense.com/v3/__https://nam11.safelinks.protection.outlook.com/?url=https*3A*2F*2Fsupport.teletracnavman.com*2Fhelpdesk*2Ftickets*2F118298&data=05*7C01*7Cben.mccartney*40teletracnavman.com*7C3082a4c387fe4b190b2308da4ab7f335*7C0fa3e305f1654229aebf05df736780bb*7C0*7C0*7C637904451172681567*7CUnknown*7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0*3D*7C3000*7C*7C*7C&sdata=s6UVGM2a2CZHTZ7mGs*2FG5CHcwYbAGsP1GW059DMrSak*3D&reserved=0__;JSUlJSUlJSUlJSUlJSUlJSUlJSUlJSU!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKeJjj7sK$ >
+
+DDI's have been assigned per the below table:
+
+[https://urldefense.com/v3/__https://attachment.freshservice.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzA0MzUyODc4MywiZG9tYWluIjoidGVsZXRyYWNuYXZtYW4uZnJlc2hzZXJ2aWNlLmNvbSIsInR5cGUiOjF9.-dbfBZcNfzPWGsEtVHHHNsr28DMyOGp4lihzwkQYb08__;!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKSDrEtsS$ ]
+
+
+Kind Regards
+
+Greg Casewell
+Global IT Support Manager
+Greg.Casewell@TeletracNavman.com<mailto:Greg.Casewell@TeletracNavman.com>
++44 (0) 7736246431, mob.
+
+Teletrac Navman | K1 Business Park Kents Hill | Milton Keynes | Buckinghamshire | MK7 6BZ
+Teletrac Navman | Innovation Centre 1| Keele University Science Park | Staffordshire | ST5 5NB
++44 (0345) 521 1188 | teletracnavman.co.uk
+
+
+[https://urldefense.com/v3/__http://logos.teletracnavman.com/ttn.png__;!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKf2NOlrj$ ]
+On Thu, Jun 9 10:43 PM , Teletrac Navman IT Service Desk <Support@TeletracNavman.com<mailto:Support@TeletracNavman.com>> wrote:
+Hi Ben,
+
+Ticket: https://urldefense.com/v3/__https://support.teletracnavman.com/helpdesk/tickets/118298__;!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKYDGqUJs$ <https://urldefense.com/v3/__https://nam11.safelinks.protection.outlook.com/?url=https*3A*2F*2Fsupport.teletracnavman.com*2Fhelpdesk*2Ftickets*2F118298&data=05*7C01*7Cben.mccartney*40teletracnavman.com*7C3082a4c387fe4b190b2308da4ab7f335*7C0fa3e305f1654229aebf05df736780bb*7C0*7C0*7C637904451172681567*7CUnknown*7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0*3D*7C3000*7C*7C*7C&sdata=s6UVGM2a2CZHTZ7mGs*2FG5CHcwYbAGsP1GW059DMrSak*3D&reserved=0__;JSUlJSUlJSUlJSUlJSUlJSUlJSUlJSU!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKeJjj7sK$ >
+
+I have added these inbound routes.  We are just looking for "Field Service".  We are not sure what that is. If you can let us know where this goes, we can add this inbound route to finish the list.
+
+Thanks,
+
+Jeff
+
+Jeff Kurbatzky
+National Support Engineer
+Jeff.Kurbatzky@teletracnavman.com<mailto:Jeff.Kurbatzky@teletracnavman.com>
++1 (714) 890-7692
+On Wed, Jun 8 4:01 AM , Teletrac Navman IT Service Desk <Support@TeletracNavman.com<mailto:Support@TeletracNavman.com>> wrote:
+Hi Ben,
+
+Ticket: https://urldefense.com/v3/__https://support.teletracnavman.com/helpdesk/tickets/118298__;!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKYDGqUJs$ <https://urldefense.com/v3/__https://nam11.safelinks.protection.outlook.com/?url=https*3A*2F*2Fsupport.teletracnavman.com*2Fhelpdesk*2Ftickets*2F118298&data=05*7C01*7Cben.mccartney*40teletracnavman.com*7C3082a4c387fe4b190b2308da4ab7f335*7C0fa3e305f1654229aebf05df736780bb*7C0*7C0*7C637904451172681567*7CUnknown*7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0*3D*7C3000*7C*7C*7C&sdata=s6UVGM2a2CZHTZ7mGs*2FG5CHcwYbAGsP1GW059DMrSak*3D&reserved=0__;JSUlJSUlJSUlJSUlJSUlJSUlJSUlJSU!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKeJjj7sK$ >
+
+Thanks for the additional info. We will be assigning the below numbers for this purpose:
+
+[https://urldefense.com/v3/__https://attachment.freshservice.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzA0MzUyODc4MywiZG9tYWluIjoidGVsZXRyYWNuYXZtYW4uZnJlc2hzZXJ2aWNlLmNvbSIsInR5cGUiOjF9.-dbfBZcNfzPWGsEtVHHHNsr28DMyOGp4lihzwkQYb08__;!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKSDrEtsS$ ]
+
+I'll pass your ticket over to my colleague Jeff to assign the numbers this evening.
+
+Kind Regards
+
+Greg Casewell
+Global IT Support Manager
+Greg.Casewell@TeletracNavman.com<mailto:Greg.Casewell@TeletracNavman.com>
++44 (0) 7736246431, mob.
+
+Teletrac Navman | K1 Business Park Kents Hill | Milton Keynes | Buckinghamshire | MK7 6BZ
+Teletrac Navman | Innovation Centre 1| Keele University Science Park | Staffordshire | ST5 5NB
++44 (0345) 521 1188 | teletracnavman.co.uk
+
+
+[https://urldefense.com/v3/__http://logos.teletracnavman.com/ttn.png__;!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKf2NOlrj$ ]
+On Wed, Jun 8 11:21 AM , Ben <ben.mccartney@teletracnavman.com<mailto:ben.mccartney@teletracnavman.com>> wrote:
+Hi Greg,
+
+I need to get the DDI's so I can pass them to Amazon Connect so the extensions can be setup on the new Phone system.
+
+Many thanks,
+
+Ben McCartney
+Global Service Desk & Incident Manager
+Ben.McCartney@TeletracNavman.com<mailto:Ben.McCartney@TeletracNavman.com>
++44 (0)7780 332 682, dir.
+
+Teletrac Navman | K1 Business Park Kents Hill | Milton Keynes | Buckinghamshire | MK7 6BZ
++44 (0345) 521 1188 | teletracnavman.co.uk<https://urldefense.com/v3/__https://nam11.safelinks.protection.outlook.com/?url=http*3A*2F*2Fwww.teletracnavman.co.uk*2F&data=05*7C01*7Cben.mccartney*40teletracnavman.com*7C3082a4c387fe4b190b2308da4ab7f335*7C0fa3e305f1654229aebf05df736780bb*7C0*7C0*7C637904451172681567*7CUnknown*7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0*3D*7C3000*7C*7C*7C&sdata=1TdJESWa2VfeejYOa8TyyrhSdJXwUCUE5tXwSgeFvVc*3D&reserved=0__;JSUlJSUlJSUlJSUlJSUlJSUlJSU!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKaX4Hd2u$ >
+
+[https://urldefense.com/v3/__http://logos.teletracnavman.com/ttn.png__;!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKf2NOlrj$ ]
+[https://urldefense.com/v3/__https://attachment.freshservice.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzA0MzUyODA0MiwiZG9tYWluIjoidGVsZXRyYWNuYXZtYW4uZnJlc2hzZXJ2aWNlLmNvbSIsInR5cGUiOjF9.hzLatmK4cUzpfwZfaz6SknLvMeiW4aVQf8aKgDzNkUY__;!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKad4acEo$ ]<https://urldefense.com/v3/__https://nam11.safelinks.protection.outlook.com/?url=https*3A*2F*2Fwww.facebook.com*2FTeletracNavmanUK*2F&data=05*7C01*7Cben.mccartney*40teletracnavman.com*7C3082a4c387fe4b190b2308da4ab7f335*7C0fa3e305f1654229aebf05df736780bb*7C0*7C0*7C637904451172681567*7CUnknown*7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0*3D*7C3000*7C*7C*7C&sdata=ovi75TK98rnyfUYBxf9xc1sq1mtkwvLwoonp8aqDiv0*3D&reserved=0__;JSUlJSUlJSUlJSUlJSUlJSUlJSUl!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKTNgclMV$ >[https://urldefense.com/v3/__https://attachment.freshservice.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzA0MzUyODA0MywiZG9tYWluIjoidGVsZXRyYWNuYXZtYW4uZnJlc2hzZXJ2aWNlLmNvbSIsInR5cGUiOjF9.8fKhyc9m21FpJTnWwlKK95d1T6imE-U9LHeJpMHEinA__;!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKVN50mJV$ ]<https://urldefense.com/v3/__https://nam11.safelinks.protection.outlook.com/?url=https*3A*2F*2Fwww.linkedin.com*2Fcompany*2Fteletrac-navman-uk*2F&data=05*7C01*7Cben.mccartney*40teletracnavman.com*7C3082a4c387fe4b190b2308da4ab7f335*7C0fa3e305f1654229aebf05df736780bb*7C0*7C0*7C637904451172681567*7CUnknown*7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0*3D*7C3000*7C*7C*7C&sdata=MAJE7LYFCuzreoMPt5muXlm*2FxEK11Kz2P9qDcqx9yys*3D&reserved=0__;JSUlJSUlJSUlJSUlJSUlJSUlJSUlJSU!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKfVk4rMc$ >[https://urldefense.com/v3/__https://attachment.freshservice.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzA0MzUyODA0NCwiZG9tYWluIjoidGVsZXRyYWNuYXZtYW4uZnJlc2hzZXJ2aWNlLmNvbSIsInR5cGUiOjF9.bYbKTh72zH0UvIDr-CvHqKFd1p6fPjblQfHTqZYPp5s__;!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKVF5WQ8x$ ]<https://urldefense.com/v3/__https://nam11.safelinks.protection.outlook.com/?url=https*3A*2F*2Fwww.youtube.com*2Fchannel*2FUCu5QmcEB0a8WFVoShoHVUgg&data=05*7C01*7Cben.mccartney*40teletracnavman.com*7C3082a4c387fe4b190b2308da4ab7f335*7C0fa3e305f1654229aebf05df736780bb*7C0*7C0*7C637904451172681567*7CUnknown*7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0*3D*7C3000*7C*7C*7C&sdata=jDrMaUgx0*2BXnn8gDO8R*2ByLeTth*2BiTHiCGDt0S89Hch4*3D&reserved=0__;JSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUl!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKSLmBs8n$ >
+We respect your privacy. Please see our Privacy Notice<https://urldefense.com/v3/__https://nam11.safelinks.protection.outlook.com/?url=https*3A*2F*2Fwww.teletracnavman.co.uk*2Fprivacy-notice&data=05*7C01*7Cben.mccartney*40teletracnavman.com*7C3082a4c387fe4b190b2308da4ab7f335*7C0fa3e305f1654229aebf05df736780bb*7C0*7C0*7C637904451172681567*7CUnknown*7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0*3D*7C3000*7C*7C*7C&sdata=uhOasK0HVTtGUC8ZjcadblasakHzdCMQoH*2FXcyEDLLM*3D&reserved=0__;JSUlJSUlJSUlJSUlJSUlJSUlJSUl!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKbUhuc9K$ > for more information.
+
+From: Greg Casewell <Support@TeletracNavman.com<mailto:Support@TeletracNavman.com>>
+Sent: 08 June 2022 11:11
+To: Ben McCartney <Ben.McCartney@TeletracNavman.com<mailto:Ben.McCartney@TeletracNavman.com>>
+Cc: James McEwen <James.McEwen@TeletracNavman.com<mailto:James.McEwen@TeletracNavman.com>>
+Subject: Re: [#INC-118298] UK - Extensions
+
+CAUTION: This email originated from outside the company.
+Hi Ben,
+
+Ticket: https://urldefense.com/v3/__https://support.teletracnavman.com/helpdesk/tickets/118298__;!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKYDGqUJs$ <https://urldefense.com/v3/__https://nam11.safelinks.protection.outlook.com/?url=https*3A*2F*2Fsupport.teletracnavman.com*2Fhelpdesk*2Ftickets*2F118298&data=05*7C01*7Cben.mccartney*40teletracnavman.com*7C3082a4c387fe4b190b2308da4ab7f335*7C0fa3e305f1654229aebf05df736780bb*7C0*7C0*7C637904451172681567*7CUnknown*7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0*3D*7C3000*7C*7C*7C&sdata=s6UVGM2a2CZHTZ7mGs*2FG5CHcwYbAGsP1GW059DMrSak*3D&reserved=0__;JSUlJSUlJSUlJSUlJSUlJSUlJSUlJSU!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKeJjj7sK$ >
+
+Please can I get more background on this before I proceed?
+
+There are a couple of ways in which DDIs can be sources so I need to choose the best one for what it is you're trying to achieve.
+
+Kind Regards
+
+Greg Casewell
+Global IT Support Manager
+Greg.Casewell@TeletracNavman.com<mailto:Greg.Casewell@TeletracNavman.com>
++44 (0) 7736246431, mob.
+
+Teletrac Navman | K1 Business Park Kents Hill | Milton Keynes | Buckinghamshire | MK7 6BZ
+Teletrac Navman | Innovation Centre 1| Keele University Science Park | Staffordshire | ST5 5NB
++44 (0345) 521 1188 | teletracnavman.co.uk
+
+
+[https://urldefense.com/v3/__http://logos.teletracnavman.com/ttn.png__;!!IJTm5Pv7pnzb!L7M2rRI3yGrwY9tfvbE8o2nAact18W4-ZudDU7SSs34d-oV_ykwZvcBC4Rn0RFIvIZlJYjIhxSGLRxbJSGW4IO9SKf2NOlrj$ ]
+[#INC-118298]:56577:fs
+[#INC-118298]:56577:fs
+---------------------------------
+INC0672193 -Chairez, Axl
+---------
+INC0672755 - INC0672493
+Created from external email to: Support@TeletracNavman.com
+
+Hi there.
+
+Wonder if we can redirect this 1001 extn to the AWS customer support number?
+
+Get Outlook for iOS<https://urldefense.com/v3/__https://aka.ms/o0ukef__;!!IJTm5Pv7pnzb!I2C4ptM49tqqHgLZmPkW_-ZFbPEj8mc1Nd7_z2xH1bE4onDIdLwlx3PSihMue008glIkf0QJ8Psp9LHu2Ueg5KCf_WAcacg$ >
+________________________________
+From: Jean-Yves Kwibuka <Jean-Yves.Kwibuka@TeletracNavman.com>
+Sent: Thursday, June 30, 2022 8:46:24 AM
+To: James McEwen <James.McEwen@TeletracNavman.com>
+Subject: RE: Abandoned Call in Queue 1001
+
+I tested it myself and it appears that Joseph would have transferred the caller to Support using extension 1001 since calling our direct lines rings in BRIA (of course Installations doesn’t have access to Amazon Connect which wouldn’t allow transferring using our old extensions yet).
+
+Ngā Mihi Nui  -  Thank you very much
+
+
+JeanYves Kwibuka
+
+Tier 1 Technical Support
+
+Jean-Yves.Kwibuka@TeletracNavman.com<mailto:Jean-Yves.Kwibuka@TeletracNavman.com>
+
++61 29 886 8572, dir.
+
+Check our career website<https://careers.vontier.com/us/en/teletrac-navman> or follow us on LinkedIn<https://urldefense.com/v3/__https://www.linkedin.com/company/teletrac-navman-new-zealand/__;!!IJTm5Pv7pnzb!I2C4ptM49tqqHgLZmPkW_-ZFbPEj8mc1Nd7_z2xH1bE4onDIdLwlx3PSihMue008glIkf0QJ8Psp9LHu2Ueg5KCfX07WevQ$ > & Facebook<https://urldefense.com/v3/__https://www.facebook.com/TeletracNavmanNZ/__;!!IJTm5Pv7pnzb!I2C4ptM49tqqHgLZmPkW_-ZFbPEj8mc1Nd7_z2xH1bE4onDIdLwlx3PSihMue008glIkf0QJ8Psp9LHu2Ueg5KCffGZnmEY$ >
+
+We’re doing our part to stop the COVID-19 spread with many of our people working from home.
+Please do not be offended if we ask for information related to your business plans, procedures or request a virtual meeting in lieu of face to face.
+
+Safety First Always.
+
+Teletrac Navman | 67 Apollo Drive | Rosedale | Auckland 0632
+
+0800 447 735 | teletracnavman.co.nz<https://urldefense.com/v3/__http://www.teletracnavman.co.nz/__;!!IJTm5Pv7pnzb!I2C4ptM49tqqHgLZmPkW_-ZFbPEj8mc1Nd7_z2xH1bE4onDIdLwlx3PSihMue008glIkf0QJ8Psp9LHu2Ueg5KCfiymCK54$ >
+[https://urldefense.com/v3/__http://logos.teletracnavman.com/ttn.png__;!!IJTm5Pv7pnzb!I2C4ptM49tqqHgLZmPkW_-ZFbPEj8mc1Nd7_z2xH1bE4onDIdLwlx3PSihMue008glIkf0QJ8Psp9LHu2Ueg5KCf1E5E5-U$ ]   [cid:image001.jpg@01D88C5B.58653550]   [cid:image002.jpg@01D88C5B.58653550]
+
+
+From: James McEwen <James.McEwen@TeletracNavman.com>
+Sent: Wednesday, 29 June 2022 3:46 pm
+To: Jean-Yves Kwibuka <Jean-Yves.Kwibuka@TeletracNavman.com>
+Subject: Re: Abandoned Call in Queue 1001
+
+But how did it get to us? Does he have a call divert to our phone queue?
+
+Get Outlook for iOS<https://urldefense.com/v3/__https://aka.ms/o0ukef__;!!IJTm5Pv7pnzb!I2C4ptM49tqqHgLZmPkW_-ZFbPEj8mc1Nd7_z2xH1bE4onDIdLwlx3PSihMue008glIkf0QJ8Psp9LHu2Ueg5KCf_WAcacg$ >
+
+________________________________
+
+From: Jean-Yves Kwibuka <Jean-Yves.Kwibuka@TeletracNavman.com<mailto:Jean-Yves.Kwibuka@TeletracNavman.com>>
+Sent: Wednesday, June 29, 2022 3:34:04 PM
+To: James McEwen <James.McEwen@TeletracNavman.com<mailto:James.McEwen@TeletracNavman.com>>
+Subject: RE: Abandoned Call in Queue 1001
+
+Sorry yes it’s actually +61 29 886 8573  and it’s a direct line to one Joseph Bui in the AU installations team. The caller was an installer trying to get TN360 app password reset.
+
+Ngā Mihi Nui  -  Thank you very much
+
+
+JeanYves Kwibuka
+
+Tier 1 Technical Support
+
+Jean-Yves.Kwibuka@TeletracNavman.com<mailto:Jean-Yves.Kwibuka@TeletracNavman.com>
+
++61 29 886 8572, dir.
+
+Check our career website<https://careers.vontier.com/us/en/teletrac-navman> or follow us on LinkedIn<https://urldefense.com/v3/__https://www.linkedin.com/company/teletrac-navman-new-zealand/__;!!IJTm5Pv7pnzb!I2C4ptM49tqqHgLZmPkW_-ZFbPEj8mc1Nd7_z2xH1bE4onDIdLwlx3PSihMue008glIkf0QJ8Psp9LHu2Ueg5KCfX07WevQ$ > & Facebook<https://urldefense.com/v3/__https://www.facebook.com/TeletracNavmanNZ/__;!!IJTm5Pv7pnzb!I2C4ptM49tqqHgLZmPkW_-ZFbPEj8mc1Nd7_z2xH1bE4onDIdLwlx3PSihMue008glIkf0QJ8Psp9LHu2Ueg5KCffGZnmEY$ >
+
+We’re doing our part to stop the COVID-19 spread with many of our people working from home.
+Please do not be offended if we ask for information related to your business plans, procedures or request a virtual meeting in lieu of face to face.
+
+Safety First Always.
+
+Teletrac Navman | 67 Apollo Drive | Rosedale | Auckland 0632
+
+0800 447 735 | teletracnavman.co.nz<https://urldefense.com/v3/__http://www.teletracnavman.co.nz/__;!!IJTm5Pv7pnzb!I2C4ptM49tqqHgLZmPkW_-ZFbPEj8mc1Nd7_z2xH1bE4onDIdLwlx3PSihMue008glIkf0QJ8Psp9LHu2Ueg5KCfiymCK54$ >
+
+
+[https://urldefense.com/v3/__http://logos.teletracnavman.com/ttn.png__;!!IJTm5Pv7pnzb!I2C4ptM49tqqHgLZmPkW_-ZFbPEj8mc1Nd7_z2xH1bE4onDIdLwlx3PSihMue008glIkf0QJ8Psp9LHu2Ueg5KCf1E5E5-U$ ]   [cid:image001.jpg@01D88C5B.58653550]   [cid:image002.jpg@01D88C5B.58653550]
+
+
+From: James McEwen <James.McEwen@TeletracNavman.com<mailto:James.McEwen@TeletracNavman.com>>
+Sent: Wednesday, 29 June 2022 3:05 pm
+To: Jean-Yves Kwibuka <Jean-Yves.Kwibuka@TeletracNavman.com<mailto:Jean-Yves.Kwibuka@TeletracNavman.com>>
+Subject: Re: Abandoned Call in Queue 1001
+
+
+Can you test to see where this number goes
+
+
+Get Outlook for iOS<https://urldefense.com/v3/__https://aka.ms/o0ukef__;!!IJTm5Pv7pnzb!I2C4ptM49tqqHgLZmPkW_-ZFbPEj8mc1Nd7_z2xH1bE4onDIdLwlx3PSihMue008glIkf0QJ8Psp9LHu2Ueg5KCf_WAcacg$ >
+
+________________________________
+
+From: JeanYves Kwibuka <Jean-Yves.Kwibuka@TeletracNavman.com<mailto:Jean-Yves.Kwibuka@TeletracNavman.com>>
+Sent: Wednesday, June 29, 2022 2:57:57 PM
+To: James McEwen <James.McEwen@TeletracNavman.com<mailto:James.McEwen@TeletracNavman.com>>
+Subject: RE: Abandoned Call in Queue 1001
+
+Hi James,
+
+
+I called this guy (Rhys) who needed a password reset to the TN360 app. Said he initially called 09 886 8573 - some number that was stored in his phone.
+
+
+
+Ngā Mihi Nui  -  Thank you very much
+
+JeanYves Kwibuka
+
+Tier 1 Technical Support
+
+Jean-Yves.Kwibuka@TeletracNavman.com<mailto:Jean-Yves.Kwibuka@TeletracNavman.com>
+
++61 29 886 8572, dir.
+
+Check our career website<https://careers.vontier.com/us/en/teletrac-navman> or follow us on LinkedIn<https://urldefense.com/v3/__https://www.linkedin.com/company/teletrac-navman-new-zealand/__;!!IJTm5Pv7pnzb!I2C4ptM49tqqHgLZmPkW_-ZFbPEj8mc1Nd7_z2xH1bE4onDIdLwlx3PSihMue008glIkf0QJ8Psp9LHu2Ueg5KCfX07WevQ$ > & Facebook<https://urldefense.com/v3/__https://www.facebook.com/TeletracNavmanNZ/__;!!IJTm5Pv7pnzb!I2C4ptM49tqqHgLZmPkW_-ZFbPEj8mc1Nd7_z2xH1bE4onDIdLwlx3PSihMue008glIkf0QJ8Psp9LHu2Ueg5KCffGZnmEY$ >
+
+
+We’re doing our part to stop the COVID-19 spread with many of our people working from home.
+Please do not be offended if we ask for information related to your business plans, procedures or request a virtual meeting in lieu of face to face.
+
+Safety First Always.
+
+Teletrac Navman | 67 Apollo Drive | Rosedale | Auckland 0632
+
+0800 447 735 | teletracnavman.co.nz<https://urldefense.com/v3/__http://www.teletracnavman.co.nz/__;!!IJTm5Pv7pnzb!I2C4ptM49tqqHgLZmPkW_-ZFbPEj8mc1Nd7_z2xH1bE4onDIdLwlx3PSihMue008glIkf0QJ8Psp9LHu2Ueg5KCfiymCK54$ >
+
+
+[https://urldefense.com/v3/__http://logos.teletracnavman.com/ttn.png__;!!IJTm5Pv7pnzb!I2C4ptM49tqqHgLZmPkW_-ZFbPEj8mc1Nd7_z2xH1bE4onDIdLwlx3PSihMue008glIkf0QJ8Psp9LHu2Ueg5KCf1E5E5-U$ ]   [cid:image001.jpg@01D88C5B.58653550]   [cid:image002.jpg@01D88C5B.58653550]
+
+From: James McEwen <James.McEwen@TeletracNavman.com<mailto:James.McEwen@TeletracNavman.com>>
+Sent: Wednesday, 29 June 2022 12:30 pm
+To: JeanYves Kwibuka <Jean-Yves.Kwibuka@TeletracNavman.com<mailto:Jean-Yves.Kwibuka@TeletracNavman.com>>
+Subject: Fwd: Abandoned Call in Queue 1001
+
+Jean.
+
+Can we call this person and find out how they got through to our old phone system
+----------------------------
+INC0672768 - RE: Incident INC0672755 -RE: Incident INC0672493 -[EXTERNAL] Fwd: Abandoned Call
+
+A customer has made a complaint and I require call recordings Customer phone number is 01443844240
+
+
++441234759000 - INC0672717 ben
+SCTASK0350182 - nz
+
+-------------- Daniel Hurley------------------
+Password 983ad83662343ca8464ea1b66c41c822
+
+US- Domain - tn-sc-voip1.teletracnavman.com 
+http://tn-sc-voip1.nw.local
+Aus - http://tn-au-voip1.teletracnavman.com
+Auk - NZ - nwap-auck-voip.teletracnavman.com
+Logon - Ext
+username - Ext
+SIP server - Domain name
+-----------------
+Putty,WinSCP,Adobe,Notepad++,Firefox,Chrome,MS Teams,Cisco AnyConnect,Cisco IP Communicator
+AWS Certified Solutions Architect - Associate exam (SAA-C03)
+AWS Certified Advanced Networking - Specialty exam (ANS-C01)
+
+
+9998 - 
+
+INC0672383
+INC0672717
+
+ana-maria.iurascu - 9280 uk
+Meghan Jefferson - US - 6323
+
+
++447867350489
+Felix.Lobo@VNTITServices.com
